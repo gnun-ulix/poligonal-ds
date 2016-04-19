@@ -1,0 +1,6 @@
+Precompiled de.polygonal.ds package for ActionScript 3.0
+
+Usage: http://github.com/polygonal/ds/wiki/Using-SWC-Files-With-AS3-And-FlashDevelop
+	
+- files named "_alchemy" use fast memory opcodes and require Flash Player 10+
+- files named "_debug" are debug builds and should be used during development
